@@ -1,5 +1,5 @@
 #  Python Games by WolfgangVT
-Howdy! My name is WolfgangVT_EN, I am a catboy VTuber stationed out of Texas! I livestream on [Twitch](https://www.twitch.tv/wolfgangvten) and post on [YouTube](https://www.youtube.com/@wolfgang823). I am currently coding in Python, mainly pygame packages, and I'm looking forward to creating a game and more with our lovely community! I will stream projects and progression of said projects on Twitch and may post updates across my socials, if needed.
+Howdy! My name is WolfgangVT_EN, I am a catboy VTuber stationed out of Texas! I livestream on [Twitch](https://www.twitch.tv/wolfgangvten) and post on [YouTube](https://www.youtube.com/@wolfgang823). This is my GitHub that I will use on stream, in videos, and offline that will demonstrate our progression in this coding journey! I am currently coding in Python, mainly pygame packages, and I'm looking forward to creating a game and more with our lovely community! I will consistently post updates and announcements her and on other social down below! Check out all of my content, join the Discord, and I hope you have a good time here!
 
 ##  Folders that contain projects worked on alongside chat!
 
